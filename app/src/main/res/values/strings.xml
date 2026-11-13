@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DermaScan AI</string>
+    <string name="medical_disclaimer">This application is developed for educational and research purposes only. AI predictions are not medical diagnoses. Please consult a qualified dermatologist for professional evaluation.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_classify">Analyze</string>
+    <string name="nav_history">History</string>
+    <string name="nav_about">Model &amp; Info</string>
+</resources>

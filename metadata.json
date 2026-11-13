@@ -1,0 +1,6 @@
+{
+  "name": "DermaScan AI",
+  "description": "Educational skin lesion classification app powered by EfficientNetB0 Transfer Learning on HAM10000 with prediction history, probability visualizations, and report export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
